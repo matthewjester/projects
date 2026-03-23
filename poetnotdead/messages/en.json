@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "title": "Poet Not Dead — International Creative Movement",
+    "description": "Poet Not Dead is an international creative movement and open mic for all forms of art. We heal people through art. Poetry, music, dance, visual art in Bali and worldwide.",
+    "keywords": "poet not dead, open mic, poetry, music, art, Bali, creative movement, open mic bali"
+  },
+  "nav": {
+    "about": "About",
+    "mission": "Mission",
+    "manifest": "Manifest",
+    "reviews": "Reviews",
+    "events": "Events",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "lang": "RU",
+  "hero": {
+    "cta": "Join Us",
+    "h1": "Poet Not Dead — Poetry and Music Open Mic in Bali"
+  },
+  "about": {
+    "title": "About",
+    "p1": "Poet Not Dead is an international creative movement and open mic for all forms of art. We create a space where everyone can take the stage and share their creativity — be it music, poetry, dance, visual art, or theater.",
+    "p2": "We believe that creativity is not a privilege of the few, but an essential part of every human being. Our events bring together professional artists and emerging creators in one space, where there are no boundaries between stage and audience.",
+    "p3": "Poet Not Dead is a community of people who believe in the power of art to change lives. We are open to everyone who wants to create, listen, and be inspired."
+  },
+  "mission": {
+    "title": "Mission",
+    "subtitle": "We heal people through art",
+    "freedom": "Freedom",
+    "freedomDesc": "Every voice matters. We create a safe space where there is no right or wrong art.",
+    "inspiration": "Inspiration",
+    "inspirationDesc": "We awaken the creator in everyone. Each person carries a spark — we help it ignite.",
+    "healing": "Healing",
+    "healingDesc": "Art heals. We believe in its therapeutic power and create a space for transformation.",
+    "community": "Community",
+    "communityDesc": "We unite creators from around the world. Together we are stronger, together we build the future."
+  },
+  "manifest": {
+    "title": "Manifest",
+    "line1": "The Poet is not dead",
+    "line2": "Poets never die",
+    "line3": "Poetry will live forever",
+    "body1": "We are creators",
+    "body2": "Living on this earth",
+    "body3": "We remember the genius of our ancestors",
+    "body4": "We carry their words through the ages",
+    "body5": "And give them new life",
+    "body6": "In our voices is strength",
+    "body7": "In our words is the future",
+    "body8": "In our thoughts is love",
+    "body9": "Creators for all time"
+  },
+  "reviews": {
+    "title": "Reviews",
+    "ilona": "This is a magnificent place for expression, for sharing your art. For every artist, whether you are just starting your journey or continuing it — projects like this set the tone to never give up! To see burning eyes and hearts and be inspired.",
+    "sofia": "A wonderful place for bold expression and creative experiments. I am infinitely grateful to the universe that this project exists as a cultural phenomenon and unites people with burning eyes and sharp tongues."
+  },
+  "events": {
+    "title": "Events",
+    "event1Title": "Poet Not Dead Open Mic",
+    "event1Desc": "22 March · Start 18:00 · Secret Location · Free Enter",
+    "watchOn": "Watch on Instagram →"
+  },
+  "blog": {
+    "title": "Blog",
+    "readMore": "Read more →",
+    "post1Title": "What is Poet Not Dead?",
+    "post1Desc": "An international creative movement uniting artists of all disciplines through the open mic format.",
+    "post1Date": "February 19, 2025",
+    "post2Title": "What is Open Mic and How to Participate",
+    "post2Desc": "Open mic is an event format where anyone can take the stage. How to prepare.",
+    "post2Date": "February 18, 2025",
+    "post3Title": "Why Poetry Matters in the AI Era",
+    "post3Desc": "In a world of algorithms and neural networks, the living word becomes even more valuable.",
+    "post3Date": "February 17, 2025",
+    "post4Title": "5 Reasons to Take the Stage at Least Once",
+    "post4Desc": "Scary, thrilling, but it changes your life.",
+    "post4Date": "February 16, 2025",
+    "post5Title": "First Performance Guide: From Stage Fright to Applause",
+    "post5Desc": "Step-by-step preparation for your open mic debut. How to overcome nerves and enjoy the stage.",
+    "post5Date": "February 15, 2025",
+    "post6Title": "Creative Community in Bali: Why Artists Choose the Island",
+    "post6Desc": "Bali has become a magnet for creators worldwide. How the island inspires and unites musicians, poets, and artists.",
+    "post6Date": "February 14, 2025"
+  },
+  "faq": {
+    "title": "FAQ",
+    "q1": "What is Poet Not Dead Open Mic?",
+    "a1": "A unique event combining professional artist performances with an open mic where anyone can take the stage.",
+    "q2": "How do I register to perform?",
+    "a2": "Take a seat on the poufs near the stage and wait for your turn. For the main program — contact us on Telegram.",
+    "q3": "Do I need to bring my own equipment?",
+    "a3": "We provide basic sound equipment and a microphone. Bring any special instruments with you.",
+    "q4": "Are there time limits?",
+    "a4": "Open mic — up to 5-10 minutes. Main program artist — about 20-30 minutes.",
+    "q5": "Is there an entrance fee?",
+    "a5": "No, entrance and participation are free.",
+    "q6": "Can I come just as a viewer?",
+    "a6": "Yes, performing is not mandatory. The audience plays an important role in supporting artists.",
+    "q7": "Are there age restrictions?",
+    "a7": "Suitable for all ages, but some performances may contain adult material."
+  },
+  "contact": {
+    "title": "Contact",
+    "join": "Join Us",
+    "investors": "For Investors"
+  },
+  "footer": {
+    "slogan": "We heal people through art",
+    "nav": "Navigation",
+    "social": "Social Media",
+    "contactTitle": "Contact",
+    "copyright": "© 2026 Poet Not Dead. All rights reserved.",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}
