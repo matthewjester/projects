@@ -21,4 +21,4 @@ pm2 logs poetnotdead --lines 20
 - ALWAYS build before PM2 restart
 - Test both locales after content changes
 - Backup nginx config before changes
-- IndexNow after new pages: `node /root/.claude/workspace/scripts/indexnow-submit.mjs`
+- IndexNow after new pages: `node /root/claude-agents/scripts/indexnow-submit.mjs`

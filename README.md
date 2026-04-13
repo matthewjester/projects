@@ -1,6 +1,6 @@
 # Projects by Mat
 
-AI-powered projects built with Claude, Claude, and vibe coding.
+AI-powered projects built with Claude and vibe coding.
 
 > Месяц назад я гуглил "что такое промпт". Сегодня у меня 10 AI-агентов, сайт, приложение и контент-фабрика.
 
@@ -14,8 +14,7 @@ AI-powered projects built with Claude, Claude, and vibe coding.
 ## About
 
 All projects are built using AI-first approach:
-- **Claude** (Anthropic) — code generation, architecture
-- **Claude** — AI agent orchestration, automation
+- **Claude** (Anthropic) — code generation, architecture, AI agent orchestration
 - **Vibe coding** — describe what you want, AI builds it
 
 ## Author

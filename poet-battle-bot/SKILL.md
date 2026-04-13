@@ -1,7 +1,7 @@
 ---
 name: poet-battle-bot
 description: Telegram бот для голосования на Poet Not Dead Battle
-metadata: { "claude": { "emoji": "🎭", "requires": { "bins": ["node"] } } }
+metadata: { "emoji": "🎭", "requires": { "bins": ["node"] } }
 ---
 
 # poet-battle-bot
@@ -52,7 +52,7 @@ Telegram-бот (@poetbattlebot) для голосования за артист
 ## Запуск
 
 ```bash
-cd /root/.claude/workspace/skills/poet-battle-bot
+cd /root/claude-agents/skills/poet-battle-bot
 node bot.js
 ```
 
@@ -110,6 +110,6 @@ sudo systemctl enable poet-battle-bot  # автозапуск
 
 ## Разработка
 
-Автор: Claude Main Agent  
+Автор: Mat  
 Дата: 2026-02-13  
 Версия: 1.0.0
